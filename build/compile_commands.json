@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/fadi/repos/SFND/Camera/cornerness_harris/build",
+  "command": "/bin/g++-9   -isystem /opt/installation/OpenCV-master/include/opencv4  -g   -std=c++11 -std=gnu++11 -o CMakeFiles/cornerness_harris.dir/src/cornerness_harris.cpp.o -c /home/fadi/repos/SFND/Camera/cornerness_harris/src/cornerness_harris.cpp",
+  "file": "/home/fadi/repos/SFND/Camera/cornerness_harris/src/cornerness_harris.cpp"
+}
+]
